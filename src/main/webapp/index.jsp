@@ -9,6 +9,8 @@
 	<h2>WELCOME TO DEVOPS CLASS</h2>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS THE LADST VERSION OF OUR APP</h1>
         <h1 style="color: blue; font-size: 40px;" align="center">hi vineela, karthik loves you soo much</h1>
+        <h1 style="color: blue; font-size: 40px;" align="center">hey vineela are you MAD of your husband</h1>
+        <h1 style="color: blue; font-size: 40px;" align="center">your husband is a good boy</h1>
 	<h1>THIS IS NEXUS SERVICE </h1>
 	
 	
